@@ -1,0 +1,4 @@
+audio files generate from www.fromtexttospeech.com using:
+language: US English
+voice: Heather
+speed: medium
